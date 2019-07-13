@@ -1,2 +1,3 @@
-FROM openjdk:8
-ADD target/*.jar 
+
+EXPOSE 8082
+
